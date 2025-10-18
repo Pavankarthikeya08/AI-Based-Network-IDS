@@ -1,0 +1,2 @@
+duration,packets,src_bytes,dst_bytes,bytes_per_sec,protocol,flags_syn,flags_ack,dst_port,failed_logins,label
+0.12,3,450,200,550.0,TCP,0,1,80,0,BENIGN
