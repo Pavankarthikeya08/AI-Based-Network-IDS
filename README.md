@@ -1,4 +1,4 @@
-# 🛡️ AI-Based Network IDS — Demo
+# 🛡️ AI-Based Network IDS 
 
 This project demonstrates an **AI-based Network Intrusion Detection System (IDS)** that predicts network attacks from flow data. Users can upload a CSV with network flow features and get predictions using a pre-trained machine learning model.
 
